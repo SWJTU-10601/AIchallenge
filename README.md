@@ -18,12 +18,12 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | densenet161  |     无颜色         |            |           |            |           |           |
 | densenet161  |     有颜色         |            |           |            |           |           |
-| densenet201  |     无颜色         |            |           |            |           |           |
-| densenet201  |     有颜色         |            |           |            |           |           |
+| densenet201  |     无颜色         |            |           |            |     0.873      |           |
+| densenet201  |     有颜色         |            |           |            |     0.859      |           |
 | inceptionresnetv2  |     无颜色         |            |           |            |           |           |
-| inceptionresnetv2  |     有颜色         |            |           |            |           |           |
+| inceptionresnetv2  |     有颜色         |            |           |            |     0.861      |           |
 | inceptionv4  |     无颜色         |            |           |            |           |           |
-| inceptionv4  |     有颜色         |            |           |            |           |           |
+| inceptionv4  |     有颜色         |            |           |            |     0.861      |           |
 
 # 第二阶段：模型融合测试
 # 第三阶段：模型改进
