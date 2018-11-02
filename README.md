@@ -32,7 +32,9 @@
 | inceptionresnetv2  |              |    有颜色        |           |            |     0.861      |           |
 | inceptionv4  |      165.4       |      无颜色       |     0.26048      |      0.35276      |      0.870     |     inception4.pth      |
 | inceptionv4  |      165.4       |      有颜色       |           |            |     0.861      |    inception4_c.pth       |
-| nasnetmobile  |      17.6       |       无颜色      |      0.26444     |     0.36026       |     0.861     |   nasnetmobile.pth     |
-
+| nasnetmobile  |      17.6       |     无颜色      |     0.26444     |     0.36026     |     0.861     |   nasnetmobile.pth     |
+|  senet154   |   453.9    | 无颜色   | 0.16924      | 0.36131      | 0.865    |        senet154.pth          |
+|            |       | 无颜色   | 0.      | 0.      | 0.    |                  |
+|            |       | 无颜色   | 0.      | 0.      | 0.    |                  |  
 # 第二阶段：模型融合测试
 # 第三阶段：模型改进
