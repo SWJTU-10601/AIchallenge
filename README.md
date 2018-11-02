@@ -23,15 +23,15 @@
 
 | 模型 | 模型大小 | 图片增强方式 | 训练集loss | 验证集loss | 验证集acc | 模型文件名|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| densenet121  |       28.6      |      无颜色       |      0.21019     |      0.34024      |      0.876     |     densenet121-a639ec97.pth      |
-| densenet161  |       107.5      |      无颜色       |           |            |      0.868     |           |
-| densenet161  |              |       有颜色     |           |            |     0.863    |       cdensenet161_15130.pth    |
+| densenet121  |       28.6      |      无颜色       |      0.21019     |      0.34024      |      0.876     |     densenet121.pth      |
+| densenet161  |       107.5      |      无颜色       |      0.21318     |     0.34413       |     0.873    |densenet161.pth     |
+| densenet161  |       107.5       |       有颜色     |           |            |     0.863    |       densenet161_c.pth    |
 | densenet201  |      74       |      无颜色       |           |            |     0.873      |           |
 | densenet201  |              |      有颜色      |           |            |     0.859      |           |
-| inceptionresnetv2  |      218.1       |     无颜色       |     0.23690      |      0.35496      |       0.863    |    inceptionresnetv2_049438.pth       |
+| inceptionresnetv2  |      218.1       |     无颜色       |     0.23690      |      0.35496      |       0.863    |    inceptionresnetv2.pth       |
 | inceptionresnetv2  |              |    有颜色        |           |            |     0.861      |           |
-| inceptionv4  |      165.4       |      无颜色       |     0.26048      |      0.35276      |      0.870     |     inception4_052382.pth      |
-| inceptionv4  |      165.4       |      有颜色       |           |            |     0.861      |    cinception4_052382.pth       |
+| inceptionv4  |      165.4       |      无颜色       |     0.26048      |      0.35276      |      0.870     |     inception4.pth      |
+| inceptionv4  |      165.4       |      有颜色       |           |            |     0.861      |    inception4_c.pth       |
 | nasnetmobile  |      17.6       |       无颜色      |      0.26444     |     0.36026       |     0.861     |   nasnetmobile.pth     |
 
 # 第二阶段：模型融合测试
