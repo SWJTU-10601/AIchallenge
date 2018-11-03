@@ -31,7 +31,7 @@
 | densenet121  |       28.6      |      无颜色       |      0.21019     |      0.34024      |      0.876     |     densenet121.pth      |
 | densenet161  |       107.5      |      无颜色       |      0.21318     |     0.34413       |     0.873    |densenet161.pth     |
 | densenet161  |       107.5       |       有颜色     |           |            |     0.863    |       densenet161_c.pth    |
-| densenet201  |      74       |      无颜色       |           |            |     0.873      |           |
+| densenet201  |      74       |      无颜色       |     0.17030      |     0.34118       |     0.876      |      densenet201.pth     |
 | densenet201  |              |      有颜色      |           |            |     0.859      |           |
 | inceptionresnetv2  |      218.1       |     无颜色       |     0.23690      |      0.35496      |       0.863    |    inceptionresnetv2.pth       |
 | inceptionresnetv2  |              |    有颜色        |           |            |     0.861      |           |
@@ -40,6 +40,6 @@
 | nasnetmobile  |      17.6       |     无颜色      |     0.26444     |     0.36026     |     0.861     |   nasnetmobile.pth     |
 |  senet154   |   453.9    | 无颜色   | 0.16924      | 0.36131      | 0.865    |        senet154.pth          |
 |      se_resnet50      |    104.9   | 无颜色   | 0.22028      | 0.33347      | 0.874    |     se_resnet50.pth          |
-|            |       | 无颜色   | 0.      | 0.      | 0.    |                  |  
+|      se_resnext50_32x4d      |   102    | 无颜色   | 0.21120      | 0.35766      | 0.869    |       se_resnext50_32x4d.pth            |  
 # 第二阶段：模型融合测试
 # 第三阶段：模型改进
