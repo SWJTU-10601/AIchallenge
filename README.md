@@ -44,7 +44,7 @@
 |      se_resnext50_32x4d      |   102    | 无颜色   | 0.21120      | 0.35766      | 0.869    |       se_resnext50_32x4d.pth            |  
 |     se_resnet101       |    190.2   | 无颜色   | 0.22037      | 0.34053      | 0.876    |        se_resnet101.pth           |
 |      交      |       | 叉  |       | 验      |     |      证            |
-|      densenet201      |       | 无颜色   | 0.      | 0.      | 0.    |        densenet201.pth          |
+|      densenet201      |       | 无颜色   | 0.      | 0.      | 0.8693    |        densenet201.pth          |
 |      inceptionv4    |       | 无颜色   | 0.      | 0.      | 0.8735    |        inception4.pth           | 
 |      se_resnet50     |       | 无颜色   | 0.      | 0.      | 0.8726    |         se_resnet50.pth         |
 |     se_resnet101   |       | 无颜色   | 0.      | 0.      | 0.8775    |         se_resnet101.pth       | 
